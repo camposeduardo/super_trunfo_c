@@ -1,7 +1,4 @@
-
-============================================================
 🃏 SUPER TRUNFO – COMPARAÇÕES AVANÇADAS EM C
-============================================================
 
 📘 DESCRIÇÃO
 Programa em C que cadastra duas cartas (países) e permite comparar
